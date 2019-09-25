@@ -54,7 +54,7 @@ Edit the path to load the dataset and save the weights
 
 ## Testing 
 
-For just testing the code, run 
+For just testing the model, run 
 ```bash
 ./src/code_HE_Train.ipynb
 ```
