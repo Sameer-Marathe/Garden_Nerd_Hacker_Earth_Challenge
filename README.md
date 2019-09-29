@@ -61,4 +61,7 @@ For just testing the model, run
 Download the weights from the link given in the notebook and edit the path to load them
 
 ## Note
-I was able to achieve rank of 18 out of 7620 users taking part in this competition with an accuracy of 89.99390 in just 5 days. This demonstrates the power of ensemble learning. One will have to re-train ```learn``` and ```learn2``` models to get the final result.
+I was able to achieve rank of 18 out of 7620 users taking part in this competition with an accuracy of 89.99390 in just 5 days. This demonstrates the power of ensemble learning. One will have to re-train ```learn``` and ```learn2``` models to get the final accuracy.
+
+## Courtesy
+The dataset belongs to hackerearth and dataquest. It is used here to demonstrate model capabilities.
